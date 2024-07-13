@@ -1,0 +1,120 @@
+{
+  "categorias": [
+    {
+      "id": "1",
+      "nombreequipo": "Desarrollo Frontend",
+      "color": "#FF5733"
+    },
+    {
+      "id": "2",
+      "nombreequipo": "Desarrollo Backend",
+      "color": "#33FF57"
+    },
+    {
+      "id": "3",
+      "nombreequipo": "Desarrollo Full Stack",
+      "color": "#3357FF"
+    },
+    {
+      "id": "4",
+      "nombreequipo": "Desarrollo de Aplicaciones Móviles",
+      "color": "#FF33A1"
+    },
+    {
+      "id": "5",
+      "nombreequipo": "DevOps y Despliegue",
+      "color": "#33FFF0"
+    },
+    {
+      "id": "6",
+      "nombreequipo": "Ciencia de Datos y Analítica",
+      "color": "#FFDD33"
+    },
+    {
+      "id": "7",
+      "nombreequipo": "Diseño UI/UX",
+      "color": "#A133FF"
+    },
+    {
+      "id": "8",
+      "nombreequipo": "Aseguramiento de la Calidad y Pruebas",
+      "color": "#FF9633"
+    },
+    {
+      "id": "9",
+      "nombreequipo": "Gestión de Proyectos",
+      "color": "#33FF94"
+    },
+    {
+      "id": "10",
+      "nombreequipo": "Soporte de TI y Operaciones",
+      "color": "#FF3333"
+    },
+    {
+      "id": "9930",
+      "nombreequipo": "Nueva Categoria",
+      "color": "#026b7e"
+    },
+    {
+      "id": "f011",
+      "nombreequipo": "Nabos Online",
+      "color": "#84bd00"
+    },
+    {
+      "id": "fc12",
+      "nombreequipo": "Master en Arduino",
+      "color": "#b000bd"
+    }
+    
+  ],
+  "videos": [
+    {
+      "id": "2",
+      "titulo": "Introducción a Angular",
+      "enlace": "https://www.youtube.com/watch?v=Fdf5aTYRW0E",
+      "imagen": "https://react-aluraflix-s1.vercel.app/assets/img/frontend2.png",
+      "categoria": "Desarrollo Frontend",
+      "descripcion": "Descubre los fundamentos de Angular, cómo crear aplicaciones web escalables y mantener un código organizado."
+    },
+    {
+      "id": "3",
+      "titulo": "Introducción a  con la prfesora Padilla Vue.js",
+      "enlace": "https://www.youtube.com/watch?v=FXpIoQ_rT_c",
+      "imagen": "https://react-aluraflix-s1.vercel.app/assets/img/frontend3.png",
+      "categoria": "Desarrollo Frontend",
+      "descripcion": "Aprende a crear aplicaciones web dinámicas con Vue.js, utilizando sus características de reactividad y componentes."
+    },
+    {
+      "id": "4",
+      "titulo": "Node.js ",
+      "enlace": "https://www.youtube.com/watch?v=UyYGRiTZq6A",
+      "imagen": "https://react-aluraflix-s1.vercel.app/assets/img/backend1.png",
+      "categoria": "Desarrollo Backend",
+      "descripcion": "Descubre los fundamentos de Node.js, cómo crear aplicaciones web escalables y utilizar sus características de asincronía."
+    },
+    {
+      "id": "5",
+      "titulo": "Introducción a Ruby  on Rails",
+      "enlace": "https://www.youtube.com/watch?v=fmyvWz1fk2c",
+      "imagen": "https://react-aluraflix-s1.vercel.app/assets/img/backend2.png",
+      "categoria": "Desarrollo Backend",
+      "descripcion": "Aprende a crear aplicaciones web dinámicas con Ruby on Rails, utilizando sus características de MVC y ORM."
+    },
+    {
+      "id": "6",
+      "titulo": "React Tutorial con EdTeam 3",
+      "categoria": "Desarrollo Frontend",
+      "imagen": "https://edteam-media.s3.amazonaws.com/blogs/original/688b0800-edf9-4c35-8fa9-533dbef9e5cf.png",
+      "enlace": "https://www.youtube.com/watch?v=lWQ69WX7-hA",
+      "descripcion": "prueba 3"
+    },
+    {
+      "id": "7",
+      "titulo": "Master en Arduino con Tincho",
+      "categoria": "Master en Arduino",
+      "imagen": "https://laestacioncyt.es/wp-content/uploads/2020/11/ARDUINO-BASICO-_-ESPACIO-MAKER-1024x576.jpg",
+      "enlace": "https://www.youtube.com/watch?v=eBVvD85Ml2c",
+      "descripcion": "Nuevo video sobre Arduino"
+    }
+  ]
+}
